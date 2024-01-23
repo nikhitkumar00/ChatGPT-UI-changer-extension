@@ -1,7 +1,4 @@
-# ChatGPT-UI-changer-extension
-
 <img src = "./src/desktop.png" alt = "ChatGPT-UI-changer-extension desktop" height = "300">
-<img src = "./src/mobile.png" alt = "ChatGPT-UI-changer-extension mobile" height = "300">
 
 ## Description
 ChatGPT-UI-changer-extension is a web browser extension that allows you to change the UI design of ChatGPT to pure black amoled theme.
