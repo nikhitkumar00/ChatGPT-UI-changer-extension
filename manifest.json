@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "ChatGPT UI Changer",
+    "version": "1.0",
+    "description": "Change UI Design of ChatGPT",
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "64": "icon.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://chat.openai.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
