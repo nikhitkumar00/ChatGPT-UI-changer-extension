@@ -1,4 +1,4 @@
-<p align = "center"><img src = "./src/desktop.png" alt = "ChatGPT-UI-changer-extension desktop" height = "300">
+<p align = "center"><img src = "./src/desktop.png" alt = "ChatGPT-UI-changer-extension desktop" height = "500">
 </p>
 
 ## Description
